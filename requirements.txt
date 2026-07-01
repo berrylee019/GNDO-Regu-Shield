@@ -1,0 +1,8 @@
+streamlit>=1.35.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+# 만약 RAG나 LLM API, 벡터 DB를 연결하셨다면 아래 주석을 풀고 추가하세요
+# openai>=1.0.0
+# langchain>=0.1.0
+# chromadb>=0.4.0
