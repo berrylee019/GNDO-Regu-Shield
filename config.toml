@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00D2FF"         # 포인트 컬러 (원전 방호 느낌의 사이언 블루)
+backgroundColor = "#0D1117"     # 배경색 (깃허브 스타일의 깊은 다크그레이)
+secondaryBackgroundColor = "#161B22" # 사이드바 및 컴포넌트 배경색
+textColor = "#C9D1D9"           # 본문 글자색 (소프트 화이트)
+font = "sans serif"
